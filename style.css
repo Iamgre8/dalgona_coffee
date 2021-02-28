@@ -1,0 +1,12 @@
+body{
+    background:peachpuff;
+}
+h2{
+    color: blue;
+    text-decoration: underline;
+}
+button{
+    background: blue;
+    color: cornsilk;
+    font-size: 120%;
+}
